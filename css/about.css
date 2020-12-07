@@ -1,0 +1,57 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-image: url(../img/emilia-about.jpg);
+    background-size: 72% 630px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+   
+    
+}
+ul{
+    font-family: 'Open Sans';
+   /*  margin-left: 74%; */
+    background-color: rgba(255, 255, 255, 0.604);
+    text-align: right;
+    margin-top: 30px;
+    font-size: 17px;
+}
+ul li{
+    text-decoration: none;
+     /* Bullet color */ color: rgba(255, 0, 0, 0); list-style-type: disc; 
+    } /* ul li span { /* Text color */ /* color: black;
+} */ 
+ol a{
+    text-decoration: none;
+    color: black;
+    
+}
+ol{
+    font-family: 'Open Sans';
+    margin-left: 87%;
+}
+h1{
+    margin-top: 70px;
+    font-family: Raleway;
+    font-size: 62px;
+    margin-left: 10px;
+    /* font-weight: 300px; */
+}
+h2{
+    font-family: 'Open Sans';
+    margin-left: 35px;
+    color: #44cec9;
+    font-weight: 100;
+}
+h3{
+    font-family: 'Open Sans';
+    margin-left: 35px;
+    color: #44cec9;
+    font-weight: 100;
+    font-size: 15px;
+}

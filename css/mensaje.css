@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+}
+.formulario{
+    font-family: 'Raleway';
+    color: #027077;
+    font-size: 25px;
+    font-weight: bolder;
+    list-style: none;
+    background-color: rgba(2, 226, 226, 0.323);
+    background-position:50% ;
+    margin-top: 20%;
+    margin-bottom: 20%;
+   /*  margin-left: 20%; */
+    /* margin-right: 20%; */
+    text-align: center;
+    
+}
+body{
+    background-image: url(../img/emilia-about.jpg);
+    background-size: cover;
+}
+
