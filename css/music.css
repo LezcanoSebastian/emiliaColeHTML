@@ -17,10 +17,9 @@ ul{
 }
 ul li{
     text-decoration: none;
-     /* Bullet color */ color: rgba(255, 0, 0, 0); list-style-type: disc; 
-    } /* ul li span { /* Text color */ /* color: black;
-} */ 
-ol a{
+      color: rgba(255, 0, 0, 0); list-style-type: disc; 
+    } 
+    ol a{
     text-decoration: none;
     color: black;
     
